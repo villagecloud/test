@@ -6,3 +6,4 @@
  * Time: 19:04
  */
 $added = null;
+$added2 = 100;
