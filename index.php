@@ -7,3 +7,5 @@
  */
 $added = null;
 $added2 = 100;
+
+echo 'continue working under feature';
