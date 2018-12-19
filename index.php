@@ -9,3 +9,5 @@ $added = null;
 
 
 $master_branch = 890;
+
+echo 'continue master';
