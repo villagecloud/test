@@ -6,8 +6,14 @@
  * Time: 19:04
  */
 $added = null;
+<<<<<<< HEAD
 
 
 $master_branch = 890;
 
 echo 'continue master';
+=======
+$added2 = 100;
+
+echo 'continue working under feature';
+>>>>>>> feature
